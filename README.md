@@ -1,4 +1,4 @@
-![](media/Stealthchanger_logo_sm.png?raw=true)
+![](https://github.com/StealthChanger/Toolchanger/blob/main/media/Stealthchanger_logo_sm.png?raw=true)
 # ModularDock - WIP
 
 Modular Dock for StealthChanger
