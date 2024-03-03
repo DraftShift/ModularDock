@@ -1,0 +1,30 @@
+# TODO
+
+- [x] Flatten V-Slot around the T-Nut for cleaner engagement
+- [ ] Mod frame to have Tn inset with a filler to allow 2 colour prints of them and have them clearly marked
+- [x] Add small lip to the DB back plate to lock it in place
+- [x] Make short DB version (can only user short DBs for all tools if used)
+- [x] Make BOM
+- [x] Upload CAD
+- [x] Test Knomi Container
+- [ ] Test Knomi2 Container
+- [ ] Add a Halo Container
+- [x] Add blank Container to build off of
+- [x] Add grill Container
+- [ ] Add XOL
+- [x] Add Blackbird
+- [ ] Add Config per Types
+- [ ] Make install instructions
+- [x] Add frame links, left L/S, right L/S, middle LL/LS/SL/SS (if no crossbar)
+- [x] Convert wiper to be modular
+- [x] Sprung Steel Wiper
+- [x] PTFE Wiper
+- [ ] Optional Brass Brush holder behind Wiper to brush as you pickup
+- [ ] Optional Tray to catch what the brush drops (held by magnets for easy cleaning)
+- [x] Make sure all holes follow [3dp standards](https://github.com/gregsaun/maker_cheatsheet/blob/master/3d_printing/techniques.md)
+- [ ] Potentially add 3 heights, SB, SB + Hat or DB, DB + Hat (But again you can not mix and match)
+- [x] Convert Container to be 1515 compat so it works with 2020 and 1515 frames
+- [x] Make the top and bottom of the frame into replacable pieces (this is where the 2020 to 1515 will happen)
+- [x] Remove the 2020 thickness of the frame and only use the 1515 to reduce parts, the frame ends will sort the options
+- [x] Add 5mm to the DB to DB links, the space will help clear wider extruders and looks better
+- [ ] Make 1515 tops and bottoms and links
