@@ -28,3 +28,4 @@
 - [x] Remove the 2020 thickness of the frame and only use the 1515 to reduce parts, the frame ends will sort the options
 - [x] Add 5mm to the DB to DB links, the space will help clear wider extruders and looks better
 - [ ] Make 1515 tops and bottoms and links
+- [ ] Fix Tabs on Containers

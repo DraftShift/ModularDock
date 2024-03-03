@@ -7,7 +7,7 @@ Modular Dock for StealthChanger
 
 This dock is a drop in type. The back plate will allow for you to adjust the tool to be at perfect 90, I'd recommend 1 degree forward just to keep the dock in place.  Magnets are 2x5s and are optional, but recommened.
 
-See [TODO](TODO.md)
+See [TODO](TODO.md) before you commit to building these.
 
 ![](media/images/front.png)
 ![](media/images/back.png)
@@ -24,9 +24,8 @@ All print settings are the same as [Voron Standards](https://docs.vorondesign.co
 - Container Flat on it's face
 
 ### Print list
-- 1 frame
+- 1 frame (Top, Bottom, Left, Right)
 - 1 frame L bracket (optional)
-- 1 frame base [type] (not required if using crossbar) WIP
 - 1 [tooltype] Base
 - 1 [tooltype] Back [type]
 - 1 Wiper [type]
