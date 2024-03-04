@@ -29,3 +29,4 @@
 - [x] Add 5mm to the DB to DB links, the space will help clear wider extruders and looks better
 - [ ] Make 1515 tops and bottoms and links
 - [ ] Fix Tabs on Containers
+- [ ] Add 2mm to the Link thickness so the screws don't stick out
