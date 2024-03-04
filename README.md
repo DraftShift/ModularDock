@@ -33,4 +33,4 @@ See [TODO](TODO.md) before you commit to building these.
 
 # BOM
 
-(BOM)[BOM.md]
+[BOM](BOM.md)
