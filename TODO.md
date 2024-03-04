@@ -14,7 +14,7 @@
 - [ ] Add XOL
 - [x] Add Blackbird
 - [ ] Add Config per Types
-- [ ] Make install instructions
+- [x] Make install instructions
 - [x] Add frame links, left L/S, right L/S, middle LL/LS/SL/SS (if no crossbar)
 - [x] Convert wiper to be modular
 - [x] Sprung Steel Wiper
