@@ -13,10 +13,6 @@ See [TODO](TODO.md) before you commit to building these.
 ![](media/images/back.png)
 
 
-# Print
-### Settings
-All print settings are the same as [Voron Standards](https://docs.vorondesign.com/sourcing.html#print-settings) or better.
-
 ### Orientation
 - Frame/L Bracket Flat on it's face
 - Base on it's back (connection with the back plate down)
@@ -32,12 +28,9 @@ All print settings are the same as [Voron Standards](https://docs.vorondesign.co
 - 1 Container [type] (optional) WIP
 - Combination of Links (only if not using crossbar for docks)
 
-**NOTE: if you use the Dragonburnder short dock, you can not use any others, all docks much be the same length or the gantry well crash into the back of the longer docks.**
+**NOTE: if you use the Dragonburnder stubby dock, you can not use any others, all docks much be the same length or the gantry well crash into the back of the longer docks.**
 
-# Build
-There is lots of hardware and heatsets, this is for improved regidity.
-
-Coming Soon
 
 # BOM
-Coming Soon
+
+(BOM)[BOM.md]
