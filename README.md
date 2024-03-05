@@ -1,4 +1,4 @@
-# ![logo](https://raw.githubusercontent.com/StealthChanger/ModularDock/main/media/images/Stealthchanger_Dock_logo.png)<div>Modular Dock<br /><span>One dock to rule them all</span></div>
+# <img src="https://raw.githubusercontent.com/StealthChanger/ModularDock/main/media/images/Stealthchanger_Dock_logo.png" align="middle" height="100" /><span>Modular Dock<br /><small>One dock to rule them all</small></span>
 
 Modular Dock for StealthChanger
 
@@ -33,18 +33,3 @@ See [TODO](TODO.md) before you commit to building these.
 # BOM
 
 [BOM](BOM.md)
-
-<style>
-  img.logo {
-    height: 100px;
-    vertical-align: middle;
-  }
-
-  div.logo {
-    display: inline-block;
-  }
-
-  div.logo span {
-    font-size: 0.7em;
-  }
-</style>
