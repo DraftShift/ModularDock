@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/StealthChanger/ModularDock/main/media/images/Stealthchanger_Dock_logo.png" align="top" height="100" /> Modular Dock
 
-Modular Dock for StealthChanger
+**Modular Dock for StealthChanger**
 
 **NOTE: This is a pre-release.  Unless you know what you are doing please wait for the Manual and config to be completed as we will not offer support on these until such time both are complete and uploaded.**
 
