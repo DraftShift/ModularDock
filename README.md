@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/StealthChanger/ModularDock/main/media/images/Stealthchanger_Dock_logo.png" height="100" /> Modular Dock
+# <img src="https://raw.githubusercontent.com/StealthChanger/ModularDock/main/media/images/Stealthchanger_Dock_logo.png" height="100" align="middle" /> Modular Dock
 
 Modular Dock for StealthChanger
 
