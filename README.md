@@ -1,5 +1,4 @@
-![](https://github.com/StealthChanger/ModularDock/blob/main/media/images/Stealthchanger_Dock_logo.png?raw=true)
-# ModularDock - WIP
+# <img src="https://raw.githubusercontent.com/StealthChanger/ModularDock/main/media/images/Stealthchanger_Dock_logo.png" height="100" /> Modular Dock
 
 Modular Dock for StealthChanger
 
