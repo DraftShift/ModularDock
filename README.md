@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/StealthChanger/ModularDock/main/media/images/Stealthchanger_Dock_logo.png" align="middle" style="height: 100px;" /> <div style="inline-block;">Modular Dock<br/><span style="font-size: 0.7em;">One dock to rule them all</span></div>
+# <img src="https://raw.githubusercontent.com/StealthChanger/ModularDock/main/media/images/Stealthchanger_Dock_logo.png" align="middle" style="height: 100px;" /> <div style="display: inline-block;">Modular Dock<br/><span style="font-size: 0.7em;">One dock to rule them all</span></div>
 
 Modular Dock for StealthChanger
 
