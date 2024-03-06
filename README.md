@@ -27,6 +27,8 @@ See [TODO](TODO.md) before you commit to building these.
 - 1 Container [type] (optional) WIP
 - Combination of Links (only if not using crossbar for docks)
 
+**NOTE: stubby version can not be used with extended front frame, 2020 front frame only.**
+
 **NOTE: if you use the Dragonburnder stubby dock, you can not use any others, all docks much be the same length or the gantry well crash into the back of the longer docks.**
 
 
