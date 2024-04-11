@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/StealthChanger/ModularDock/main/media/images/Stealthchanger_Dock_logo.png" align="top" height="100" /> Modular Dock
+# <img src="media/images/ModularDock_logo.png" align="top" height="100" /> Modular Dock
 
 **Modular Dock for StealthChanger**
 
@@ -13,10 +13,8 @@ See [TODO](TODO.md) before you commit to building these.
 
 
 ### Orientation
-- Frame/L Bracket Flat on it's face
-- Base on it's back (connection with the back plate down)
-- Back plate on it's front (connection with the base down)
-- Container Flat on it's face
+
+The STLs are not already in the proper orientation
 
 ### Print list
 - 1 frame (Top, Bottom, Left, Right)
@@ -24,12 +22,12 @@ See [TODO](TODO.md) before you commit to building these.
 - 1 [tooltype] Base
 - 1 [tooltype] Back [type]
 - 1 Wiper [type]
-- 1 Container [type] (optional) WIP
+- 1 Container [type] (optional)
 - Combination of Links (only if not using crossbar for docks)
 
-**NOTE: stubby version can not be used with extended front frame, 2020 front frame only.**
+**NOTE: all docks must end at on the same `Y` length, do not mix dock lengths**
 
-**NOTE: if you use the Dragonburnder stubby dock, you can not use any others, all docks much be the same length or the gantry well crash into the back of the longer docks.**
+**NOTE: stubby version can only be used with top mount option**
 
 
 # BOM
