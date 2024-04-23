@@ -13,6 +13,7 @@
 - [x] Add grill Container
 - [ ] Add XOL
 - [x] Add Blackbird
+- [ ] Redo Blackbird as it has changed upstream
 - [ ] Add Config per Types
 - [x] Make install instructions
 - [x] Add frame links, left L/S, right L/S, middle LL/LS/SL/SS (if no crossbar)
@@ -27,7 +28,7 @@
 - [x] Make the top and bottom of the frame into replacable pieces (this is where the 2020 to 1515 will happen)
 - [x] Remove the 2020 thickness of the frame and only use the 1515 to reduce parts, the frame ends will sort the options
 - [x] Add 5mm to the DB to DB links, the space will help clear wider extruders and looks better
-- [ ] Make 1515 tops and bottoms and links
-- [ ] Fix Tabs on Containers
+- [x] Make 1515 tops and bottoms and links
+- [x] Fix Tabs on Containers
 - [x] Bore rail holes in 2mm to use 10mm M5s instead of 12mm
 - [x] Make links symetrical front and back, remove Left and Right as End is End
