@@ -7,13 +7,13 @@
 - [x] Make BOM
 - [x] Upload CAD
 - [x] Test Knomi Container
-- [ ] Test Knomi2 Container
+- [x] Test Knomi2 Container
 - [ ] Add a Halo Container
 - [x] Add blank Container to build off of
 - [x] Add grill Container
 - [ ] Add XOL
 - [x] Add Blackbird
-- [ ] Redo Blackbird as it has changed upstream
+- [x] Redo Blackbird as it has changed upstream
 - [ ] Add Config per Types
 - [x] Make install instructions
 - [x] Add frame links, left L/S, right L/S, middle LL/LS/SL/SS (if no crossbar)
