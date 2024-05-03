@@ -11,7 +11,7 @@
 - [ ] Add a Halo Container
 - [x] Add blank Container to build off of
 - [x] Add grill Container
-- [ ] Add XOL
+- [x] Add XOL
 - [x] Add Blackbird
 - [x] Redo Blackbird as it has changed upstream
 - [ ] Add Config per Types
