@@ -1,7 +1,6 @@
-![](https://github.com/StealthChanger/ModularDock/blob/main/media/images/Stealthchanger_Dock_logo.png?raw=true)
-# ModularDock - WIP
+# <img src="media/images/ModularDock_logo.png" align="top" height="100" /> Modular Dock
 
-Modular Dock for StealthChanger
+**Modular Dock for StealthChanger**
 
 **NOTE: This is a pre-release.  Unless you know what you are doing please wait for the Manual and config to be completed as we will not offer support on these until such time both are complete and uploaded.**
 
@@ -13,15 +12,9 @@ See [TODO](TODO.md) before you commit to building these.
 ![](media/images/back.png)
 
 
-# Print
-### Settings
-All print settings are the same as [Voron Standards](https://docs.vorondesign.com/sourcing.html#print-settings) or better.
-
 ### Orientation
-- Frame/L Bracket Flat on it's face
-- Base on it's back (connection with the back plate down)
-- Back plate on it's front (connection with the base down)
-- Container Flat on it's face
+
+The STLs are not already in the proper orientation
 
 ### Print list
 - 1 frame (Top, Bottom, Left, Right)
@@ -29,15 +22,14 @@ All print settings are the same as [Voron Standards](https://docs.vorondesign.co
 - 1 [tooltype] Base
 - 1 [tooltype] Back [type]
 - 1 Wiper [type]
-- 1 Container [type] (optional) WIP
+- 1 Container [type] (optional)
 - Combination of Links (only if not using crossbar for docks)
 
-**NOTE: if you use the Dragonburnder short dock, you can not use any others, all docks much be the same length or the gantry well crash into the back of the longer docks.**
+**NOTE: all docks must end at on the same `Y` length, do not mix dock lengths**
 
-# Build
-There is lots of hardware and heatsets, this is for improved regidity.
+**NOTE: stubby version can only be used with top mount option**
 
-Coming Soon
 
 # BOM
-Coming Soon
+
+[BOM](BOM.md)
