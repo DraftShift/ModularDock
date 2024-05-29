@@ -1,6 +1,6 @@
 # ShortFrame
 
-### Not compatible with Frame Buffer
+### Not compatible with Door Buffer
 
 ### **Not Tested with crossbar yet!**
 
