@@ -1,5 +1,7 @@
 # ShortFrame
 
+### Not compatible with Frame Buffer
+
 ### **Not Tested with crossbar yet!**
 
 Modified left and right part of the frame so less Z space is used. Total Z height is reduced from 169.9mm* to 155.9mm*. Everything else stays the same. **But you need to use Tophat**
