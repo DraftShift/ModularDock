@@ -20,7 +20,7 @@
 - 2 x M5x10 BHCS
 
 ## Base
--4 x M3 Heatset
+- 4 x M3 Heatset
 2 x M3x20 SHCS 
 2 x M3x50 SHCS `40mm for stubby`
 
