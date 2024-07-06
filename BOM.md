@@ -2,6 +2,7 @@
 
 ## Frame
 **NOTE: Short frame can only be used with short frame, do NOT mix and match**
+**NOTE: Short frame not compatible with taller tools**
 
 - 6 x M3 Heatset
 - 4 x M3x16 SHCS
