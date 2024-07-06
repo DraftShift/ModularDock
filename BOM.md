@@ -1,6 +1,7 @@
 # BOM
 
 ## Frame
+**NOTE: Short frame can only be used with short frame, do NOT mix and match**
 
 - 6 x M3 Heatset
 - 4 x M3x16 SHCS
@@ -20,6 +21,8 @@
 - 2 x M5x10 BHCS
 
 ## Base
+**NOTE: Stubby base can only be used with stubby base, do NOT mix and match**
+
 - 4 x M3 Heatset
 2 x M3x20 SHCS 
 2 x M3x50 SHCS `40mm for stubby`
