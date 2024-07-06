@@ -23,9 +23,9 @@ The STLs are not already in the proper orientation
 - 1 Container [type] (optional)
 - Combination of Links (only if not using crossbar for docks)
 
-**NOTE: all docks must end at on the same `Y` length, do not mix dock lengths**
+**NOTE: all docks must end at on the same `Y` length and `Z` height, do not mix dock lengths or heights**
 
-**NOTE: stubby version can only be used with top mount option**
+**NOTE: stubby version not compatible with crossbar versions**
 
 
 # BOM

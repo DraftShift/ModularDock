@@ -23,7 +23,7 @@
 - [ ] Optional Brass Brush holder behind Wiper to brush as you pickup
 - [ ] Optional Tray to catch what the brush drops (held by magnets for easy cleaning)
 - [x] Make sure all holes follow [3dp standards](https://github.com/gregsaun/maker_cheatsheet/blob/master/3d_printing/techniques.md)
-- [ ] Potentially add 3 heights, SB, SB + Hat or DB, DB + Hat (But again you can not mix and match)
+- [x] Add shorter frame with no container for Micron and smaller options
 - [x] Convert Container to be 1515 compat so it works with 2020 and 1515 frames
 - [x] Make the top and bottom of the frame into replacable pieces (this is where the 2020 to 1515 will happen)
 - [x] Remove the 2020 thickness of the frame and only use the 1515 to reduce parts, the frame ends will sort the options

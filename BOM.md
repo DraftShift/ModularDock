@@ -2,6 +2,7 @@
 
 ## Frame
 **NOTE: Short frame can only be used with short frame, do NOT mix and match**
+
 **NOTE: Short frame not compatible with taller tools**
 
 - 6 x M3 Heatset
@@ -59,9 +60,10 @@
 ## Docking
 **NOTE: Docking bolts and tool cowl bolts should be magnetic steel, not Stainless if using magnets**
 
+**NOTE: Bolts used might vary depends on base use (Stubby will be much shorter) and Cowls used**
+
 ### SB Docking
-- 4 x 5x2 Magnets `Optional but recommended`
-- 2 x M3x25 BHCS
+- 2 x 5x2 Magnets `Optional but recommended`
 - 2 x M3x16 BHCS
 
 ### DB Docking
@@ -71,3 +73,12 @@
 ### BB Docking
 - 2 x 5x2 or 6x3 Magnets `Optional but recommended` `Use steel bolts on the top fan bolts aswell`
 - 2 x M3x12 SHCS `from inside of frame`
+
+### XOL Docking
+- 2 x 5x2 or 6x3 Magnets `Optional but recommended` `Use steel bolts on the top fan bolts aswell`
+- 2 x M3x12 SHCS `from inside of frame`
+
+### MiniSB Docking
+- 2 x 5x2 Magnets `Optional but recommended`
+- 2 x M3x16 BHCS
+
