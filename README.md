@@ -2,7 +2,7 @@
 
 **Modular Dock for StealthChanger**
 
-This dock is a drop in type. The back plate will allow for you to adjust the tool to be at perfect 90, I'd recommend 1 degree forward just to keep the dock in place.  Magnets are 2x5s and are optional, but recommened.
+This dock is a drop in type. The back plate will allow for you to adjust the tool to be at perfect 90, I'd recommend 1 degree forward just to keep the dock in place.  Magnets are 5x2s and are optional, but recommened.
 
 See [TODO](TODO.md) before you commit to building these.
 
