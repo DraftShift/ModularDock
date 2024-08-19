@@ -23,7 +23,7 @@ The monolith AWD motors take 45mm on each side so the 2020 has to be 90mm shorte
 ## crossbar lengths for Stock V2 sizes:
 | Model                 | Calculation           | Monolith AWD Crossbar extrusion length                      |
 |-----------------------|-----------------------|-------------------------------------------------------------|
-| Voron V2-350          | 470.00 mm - 90mm      | 380.00 mm                                                   |
+| Voron V2-350          | 470.00 mm - 90mm      | 380 mm                                                   |
 | Voron V2-300          | 420 mm - 90mm         | 330 mm                                                      |
 | Voron V2-250          | 370 mm - 90mm         | 280 mm                                                      |
 
