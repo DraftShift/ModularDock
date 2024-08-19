@@ -1,17 +1,15 @@
-# ShortFrame
+# Monolith_Crossbar
+by [MikeYankeeOscarBeta](https://github.com/MikeYankeeOscarBeta/) (VoronDesign Discord: #MikeyMike V2.5796, Voron Toolchangers Discord: MikeyMike - Github: [MikeYankeeOscarBeta](https://github.com/MikeYankeeOscarBeta/StealthChanger))
 
-### Not compatible with Door Buffer
+### Only compatible with 4040 or 2040 verticals
 
-Modified left and right part of the frame so less Z space is used. Total Z height is reduced from 169.9mm* to 155.9mm*. Everything else stays the same. **But you need to use Tophat**
+Printable adapters for crossbar to clear monolith AWD front motors
 
-### Using SB is supported only with special docking path which is bellow
-```
-params_shortframe_path: [{'y':10.50 ,'z':6}, {'y':8.50, 'z':2}, {'y':5.5, 'z':0}, {'z':0, 'y':0, 'f':0.5}, {'z':-10, 'y':4}, {'z':-10, 'y':20}]
-```
+Have to cut the 2020 to size.
+The monolith AWD motors take 45mm on each side so the 2020 has to be 90mm shorter than the normal horizontal extrusions
 
-( \* measured between top extrusion and the crossbar )
+Stock V2 crossbar lengths: 
 
-## Support for these are not handled by the StealthChanger Team, it is handled by BlackShade on discord
-##  All docks must use the same height, DO NOT MIX AND MATCH
-
-### My discord: `blackshade`
+Voron V2-350: 470.00 mm - 90mm = 380.00 mm
+Voron V2-300: ? mm - 90mm = ? mm
+Voron V2-250: ? mm - 90mm = ? mm
