@@ -12,7 +12,7 @@ The monolith AWD motors take 45mm on each side so the 2020 has to be 90mm shorte
 | Part                        | Amount    | Description                                                                                              |
 |-----------------------------|-----------|----------------------------------------------------------------------------------------------------------|
 | M3 T-slot nut               | 4         | Any M3 2020 T-Slot Nut will work (recommend springnuts)                                                  |
-| M5x20mm SHCS Screw          | 2         | M5 SHCS socket head screw, 20mm minimum (longer is better if you can tap the extrusion depper than 10mm) |
+| M5x20mm SHCS Screw          | 2         | M5 SHCS socket head screw, 20mm minimum (longer is better if you can tap the extrusion deeper than 10mm) |
 | M3x25mm SHCS Screw          | 4         | M3 screw, BHCS will also work                                                                            |
 | 2020 extrusion              | 1         | 2020 extrusion cut to length (calculation shown below), tapped on both ends. Misumi#: HFS5-2020-380-TPW  / HFSB5-2020-380-TPW                    |
 | M3x25mm SHCS Screw          | 4         | M3 screw, BHCS will also work                                                                            |
