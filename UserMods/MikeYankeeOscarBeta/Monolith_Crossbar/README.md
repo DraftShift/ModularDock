@@ -1,7 +1,8 @@
 # Monolith_Crossbar
 by [MikeYankeeOscarBeta](https://github.com/MikeYankeeOscarBeta/) (VoronDesign Discord: #MikeyMike V2.5796, Voron Toolchangers Discord: MikeyMike - Github: [MikeYankeeOscarBeta](https://github.com/MikeYankeeOscarBeta/StealthChanger))
 
-DraftShiftDesign Discord - user-project thread: https://discord.com/channels/1226846451028725821/1243948065208008705
+
+DraftShiftDesign Discord - user-project thread:    https://discord.com/channels/1226846451028725821/1243948065208008705
 
 ### Only compatible with 4040 or 2040 front vertical frame extrusions and R0 Printed Monolith AWD
 
@@ -27,3 +28,5 @@ The monolith AWD motors take 45mm on each side so the 2020 has to be 90mm shorte
 | Voron V2-250          | 370 mm - 90mm         | 280 mm                                                      |
 
 
+![Monolith AWD Crossbar Image1](images/crossbar1.png)  
+![Monolith AWD Crossbar Image2](images/crossbar2.png)
