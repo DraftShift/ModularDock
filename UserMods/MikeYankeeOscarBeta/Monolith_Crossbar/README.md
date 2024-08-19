@@ -28,5 +28,5 @@ The monolith AWD motors take 45mm on each side so the 2020 has to be 90mm shorte
 | Voron V2-250          | 370 mm - 90mm         | 280 mm                                                      |
 
 
-![Monolith AWD Crossbar Image1](images/crossbar1.png)  
-![Monolith AWD Crossbar Image2](images/crossbar2.png)
+![Monolith AWD Crossbar Image1](./images/crossbar1.png)  
+![Monolith AWD Crossbar Image2](./images/crossbar2.png)
