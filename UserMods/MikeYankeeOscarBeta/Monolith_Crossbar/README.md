@@ -1,6 +1,8 @@
 # Monolith_Crossbar
 by [MikeYankeeOscarBeta](https://github.com/MikeYankeeOscarBeta/) (VoronDesign Discord: #MikeyMike V2.5796, Voron Toolchangers Discord: MikeyMike - Github: [MikeYankeeOscarBeta](https://github.com/MikeYankeeOscarBeta/StealthChanger))
 
+DraftShiftDesign Discord - user-project thread: https://discord.com/channels/1226846451028725821/1243948065208008705
+
 ### Only compatible with 4040 or 2040 front vertical frame extrusions and R0 Printed Monolith AWD
 
 Printable adapters for crossbar to clear monolith AWD front motors
