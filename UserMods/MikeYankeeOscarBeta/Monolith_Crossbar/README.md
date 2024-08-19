@@ -7,10 +7,10 @@ DraftShiftDesign Discord - user-project thread:    https://discord.com/channels/
 ### Only compatible with 4040 or 2040 front vertical frame extrusions
 ### Only tested with R0 Printed Monolith AWD (pre-live shaft version)
 
-Printable adapters for crossbar to clear monolith AWD front motors
+Printable adapters for crossbar to clear monolith AWD front motors for Voron V2 with StealthChanger
 
 Have to cut the 2020 to size.
-The monolith AWD motors take 45mm on each side so the 2020 has to be 90mm shorter than the normal horizontal extrusions
+The monolith AWD motors take 45mm on each side so the 2020 has to be 90mm shorter than the frames horizontal extrusions
 
 ## BOM:
 | Part                        | Amount    | Description                                                                                              |
