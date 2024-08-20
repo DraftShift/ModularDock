@@ -38,7 +38,7 @@
 **NOTE: Only pick one type of Wiper**
 
 - 4 x M3 Heatset
-- 4 x M3x30 SHCS `20mm for DB`
+- 4 x M3x30 SHCS `20mm for DB/Yavoth`
 - RTV High Temp Silicon
 
 ### Spring Steel
@@ -66,7 +66,7 @@
 - 2 x 5x2 Magnets `Optional but recommended`
 - 2 x M3x16 BHCS
 
-### DB Docking
+### DB/Yavoth Docking
 - 2 x 5x2 Magnets `Optional but recommended`
 - 2 x M3x16 BHCS
 
