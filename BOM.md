@@ -68,6 +68,7 @@
 
 ### DB/Yavoth Docking
 - 2 x 5x2 Magnets `Optional but recommended`
+- 2 x 6x3 Magents `For Yavoth`
 - 2 x M3x16 BHCS
 
 ### BB Docking
