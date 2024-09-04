@@ -1,0 +1,1 @@
+**Short frame should only be used with 1515 printers.  You can use it with 2020 but the Z requirement may pull the MGN block off the rail.  You have been warned, to be safe stick to the normal size frame unless you know what you are doing.**
