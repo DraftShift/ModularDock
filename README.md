@@ -29,7 +29,7 @@ The STLs are not already in the proper orientation
 
 **NOTE: all docks must end at on the same `Y` length and `Z` height, do not mix dock lengths or heights**
 
-**NOTE: stubby version not compatible with crossbar versions**
+**NOTE: stubby version not compatible with extended frame crossbar versions (2040 front, Door Buffer, etc)**
 
 
 # BOM
