@@ -14,6 +14,7 @@
 - [x] Add XOL
 - [x] Add Blackbird
 - [x] Add Yavoth
+- [x] Add Rapidburner
 - [x] Redo Blackbird as it has changed upstream
 - [ ] Add Config per Types
 - [x] Make install instructions
