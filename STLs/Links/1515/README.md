@@ -1,0 +1,2 @@
+- 80: Stealthburner, Blackbird, XOL
+- 60: Dragonburner, Yavoth, MiniSB
