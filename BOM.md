@@ -7,7 +7,7 @@
 
 - 6 x M3 Heatset
 - 4 x M3x16 SHCS
-- 4 x M5x8 BHCS `M3x8 for 1515`
+- 4 x M5x10 BHCS `M3x8 for 1515`
 - 4 x M5 T-Nut `M3 for 1515` `Only 2 if using Links`
 
 ### Links
@@ -20,7 +20,7 @@
 
 - 2 x M3 Heatset
 - 2 x M3x16 SHCS
-- 2 x M5x8 BHCS
+- 2 x M5x10 BHCS `M3x8 for 1515`
 
 ## Base
 **NOTE: Stubby base can only be used with stubby base, do NOT mix and match**
