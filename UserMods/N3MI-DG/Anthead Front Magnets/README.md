@@ -1,5 +1,11 @@
 # Anthead Magnetic Duct Docks
 
+<img src="images/image1.png" width="800"/>
+<br/>
+<img src="images/screenshot1.png" width="400"/>
+<img src="images/screenshot2.png" width="600"/>
+<br/>
+
 ## Description
 
 Additional magnets are inserted into the front of the SF Anthead ducts to allow extra support of the tool as it gets docked. The Front pieces of the Modular Dock have been adapted to suit the shape of the Anthead and include adjustable magnet "Pucks" to coincide with the Anthead Duct. With these changes I have had incredibly consistent docking which in turn has made it possible to speed up the tool changes.
