@@ -15,5 +15,5 @@
 ## Hardware Requirements
 
 - **6mm spacers** are required to space out the main **M3 screws** for Rapidburner Goliath far enough to mate with the magnets.
-- Use **main M3 screws that are 6mm longer** than stock for the Rapidburner Goliath (RBG).
+- Use **main M3 screws that are 6mm longer** than stock for the Rapidburner Goliath (RBG). Make sure they are magnetic and not stainless.
 - All other parts are compatible with the Rapidburner Modular Dock.
