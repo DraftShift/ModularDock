@@ -1,9 +1,7 @@
 # Rapidburner Goliath Magdock Adapter
 
 ## Credits
-- Apprisco in Voron
-- Monolith
-- Draftshift Design Discord
+- Apprisco in Voron, Monolith, Draftshift Design Discord
 
 ## Print Instructions
 - Print **1×** `frame_left_mag`
