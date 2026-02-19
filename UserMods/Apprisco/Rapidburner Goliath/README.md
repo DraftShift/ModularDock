@@ -1,22 +1,51 @@
 # Rapidburner Goliath Magdock Adapter
 
 ## Credits
-- Apprisco in Voron, Monolith, Draftshift Design Discord
+- Apprisco — Voron, Monolith, Draftshift Design Discord
 
-## Print Instructions for Each Tool
-- Print **1×** `frame_left_mag`
-- Print **1×** **mirrored** `frame_left_mag` (for the right side)
-- Print **1×** `6mag_RB_Goliath_Cowl_1.5x6mm.stl`
-- Print **1×** `6mag_RB_dock_base_2x6mm.stl`
+---
 
-> **Note:** `frame_left` is the **non-Magdock** version and is **not recommended**, since **Rapidburner Goliath (RBG) toolheads are heavy**.
-![IMG_6865](https://github.com/user-attachments/assets/04434af9-96d7-4a57-9c13-3cadab3a9174)
-![IMG_6753](https://github.com/user-attachments/assets/df0a10c2-63b9-4da5-a5db-cd9ffea20faf)
-![IMG_6674](https://github.com/user-attachments/assets/f40e9c6c-c952-4ca8-81f1-a0b8fc418cbb)
+## Print Instructions
+
+Print the following parts:
+
+- **1×** `frame_left_mag`
+- **1× mirrored** `frame_left_mag` *(for the right side)*
+- **1×** `6mag_RB_Goliath_Cowl_1.5x6mm.stl`
+- **1×** `6mag_RB_dock_base_2x6mm.stl`
+
+> **IMPORTANT:**  
+> `frame_left` is the **non-Magdock** version and is **not recommended**, since **Rapidburner Goliath (RBG) toolheads are heavy**.
+
+---
+
+## Reference Images
+
 https://github.com/user-attachments/assets/c9cb2046-8695-4a89-a174-23dc2d65bfda
 
+<img width="925" height="1097" alt="image" src="https://github.com/user-attachments/assets/18b84876-727c-4e92-b1ad-17dd0e7f7ecc" />
+
+<img width="1045" height="616" alt="image" src="https://github.com/user-attachments/assets/7823ef60-c9d8-4589-b3ab-2353c6586354" />
+
+*Tool hanging upside down.*
+
+---
+
 ## Hardware Requirements
-- **8mm spacers** are required to space out the main **M3 screws** for Rapidburner Goliath far enough to mate with the magnets.
-- Use **main M3 screws that are 8mm longer** than stock for the Rapidburner Goliath (RBG). Make sure they are magnetic and not stainless.
-- Docks require **4 6mmx2mm** N52 magnets, cowls require **4 6mmx1.5mm** N52 magnets. Frame requires **2 6mmx3mm** magnets.
-- Height matched with original RBG, nozzle still protrudes so no issues with probing and printing. Cartographer compatibility maintained.
+
+- **8 mm spacers** are required to space out the main **M3 screws** so the Rapidburner Goliath mates correctly with the magnets in the frame.
+- Use **main M3 screws that are 8 mm longer** than stock for the RBG.
+  - Screws **must be magnetic** (not stainless steel).
+
+- **Dock:** 4× **6 mm × 2 mm** N52 magnets  
+- **Cowl:** 4× **6 mm × 1.5 mm** N52 magnets  
+- **Frame:** 2× **6 mm × 3 mm** N52 magnets  
+
+---
+
+## Notes
+
+- Height is matched with the original RBG.
+- Nozzle still protrudes — probing and printing unaffected.
+- Cartographer compatibility maintained.
+- WWG2 extruder used in example image with a modified version of Took's EBB36 WWG2 mount & modded EBB36 cover with fan.
