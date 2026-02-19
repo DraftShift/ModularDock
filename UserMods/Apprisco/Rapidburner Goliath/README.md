@@ -23,6 +23,8 @@ Print the following parts:
 
 https://github.com/user-attachments/assets/c9cb2046-8695-4a89-a174-23dc2d65bfda
 
+https://github.com/user-attachments/assets/0fb0bd0d-f933-4490-a703-011aabf8589f
+
 <img width="925" height="1097" alt="image" src="https://github.com/user-attachments/assets/18b84876-727c-4e92-b1ad-17dd0e7f7ecc" />
 
 <img width="1045" height="616" alt="image" src="https://github.com/user-attachments/assets/7823ef60-c9d8-4589-b3ab-2353c6586354" />
